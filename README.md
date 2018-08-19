@@ -46,6 +46,8 @@ result_output：保存本项目最终的输出结果
 
 chengshd：我的测试数据，里面是我的相关照片和视频
 
+facenet.py：拷贝自facenet的代码文件
+
 vgg16_feature_extraction.py：使用vgg16提取特征
 
 facenet_feature_extraction.py：使用facenet提取特征
