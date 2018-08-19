@@ -7,23 +7,23 @@ face recognition application
 
 项目中用到的一些模型需要你下载放到本项目根目录下，因为太大就没有一起上传：
 
-1、facenet的模型文件，请到https://github.com/davidsandberg/facenet地址去下载。
+1、facenet的模型文件，请到['https://github.com/davidsandberg/facenet'] 地址去下载。
 
 modelname是20180402-114759，下载链接是：https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-
 
 放到本项目的model文件夹下。
 
-2、vgg16的模型文件，请到https://github.com/machrisaa/tensorflow-vgg地址去下载。
+2、vgg16的模型文件，请到['https://github.com/machrisaa/tensorflow-vgg'] 地址去下载。
 
 vgg16.npy下载链接是：https://mega.nz/#!YU1FWJrA!O1ywiCS2IiOlUCtCpI6HTJOMrneN-Qdv3ywQP5poecM
 
 放到本项目的tensorflow_vgg文件夹下。
 
-3、ffmpeg和ffprobe，请到http://ffmpeg.org/download.html地址去下载。
+3、ffmpeg和ffprobe，请到['http://ffmpeg.org/download.html'] 地址去下载。
 
 放到本项目根目录下。
 
-4、dlib的模型文件，请到http://dlib.net/files/地址去下载。
+4、dlib的模型文件，请到['http://dlib.net/files/'] 地址去下载。
 
 需要下载以下四个文件：
 
@@ -40,7 +40,7 @@ align：拷贝自facenet的facenet/src/align/文件夹
 
 model：用来保存facenet的模型文件
 
-tensorflow_vgg：https://github.com/machrisaa/tensorflow-vgg项目的源代码
+tensorflow_vgg：https://github.com/machrisaa/tensorflow-vgg 项目的源代码
 
 result_output：保存本项目最终的输出结果
 
