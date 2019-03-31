@@ -1,3 +1,4 @@
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
 # Face_Recognizer
 face recognition application
 
@@ -61,3 +62,5 @@ main_recognition.py：人脸识别类的代码，可以对照片和视频做人�
 
 action.py：另外一种应用场景的实现。给定视频找目标人脸，并输出目标在首次视频出现时的照片。
 
+# 许可
+Licensed under the MIT License with the [`996ICU License`](https://github.com/996icu/996.ICU/blob/master/LICENSE).
